@@ -1,0 +1,5 @@
+#textArea .content{
+    -fx-background-image:url("/img/pig.jpg");opacity: .3;
+    -fx-background-repeat:no-repeat;
+    -fx-background-size:cover;
+}
