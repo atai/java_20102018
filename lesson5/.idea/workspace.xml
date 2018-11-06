@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eba7ec4-230a-4422-920c-e1a159437a5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lesson3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson4/main/.idea/cssdialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/src/dop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/src/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson4/main/src/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson4/main/src/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/dop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,7 +92,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541479814561" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541479866386" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,16 +128,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541479193612</updated>
-      <workItem from="1541479195835" duration="453000" />
+      <workItem from="1541479195835" duration="742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="453000" />
+    <option name="totallyTimeSpent" value="742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="56" width="1612" height="876" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
