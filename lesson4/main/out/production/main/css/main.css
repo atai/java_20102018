@@ -3,11 +3,11 @@
     -fx-font-weight: bold;
     }
 #textArea .content{
-    -fx-background-image:url("/img/pig.jpg");opacity: .3%;
+    -fx-background-image:url("/img/pig.jpg");opacity: .3;
     -fx-background-repeat:no-repeat;
     -fx-background-size:cover;
     }
-#textArea .indexed-cell {
+#textArea .indexed-cell odd{
     -fx-background-color: red;
 }
 #textArea .indexed-cell even{
